@@ -10990,7 +10990,7 @@ header.masthead h1, header.masthead .h1 {
   opacity: 0;
   color: #fff;
   /* background: rgba(244, 98, 58, 0.9); */
-  background: rgba(17, 90, 179, 0.9);
+  background: rgba(10, 78, 161, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
